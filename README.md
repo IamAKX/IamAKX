@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Flutter library development
 - 📫 You can reach me at akx.sonu@gmail.com
-- 📱 Learn more about me at : [https://play.google.com/store/apps/details?id=com.akashapplications.akashgiri.akash_giri&hl=en_US&gl=US](https://iamakx.github.io/akashgiri.github.io/#top)
+- 📱 Learn more about me at : https://iamakx.github.io/akashgiri.github.io/#top
 
 
 ## About Me
